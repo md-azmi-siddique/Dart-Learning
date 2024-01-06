@@ -1,3 +1,4 @@
+import 'class.dart';
 import 'function.dart';
 import 'list.dart';
 import 'loop.dart';
@@ -17,6 +18,7 @@ print('\n');
 loop();
 print('\n');
 function();
+classOOP();
 }
 
 
